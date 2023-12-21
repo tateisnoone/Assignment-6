@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  background-color: #f1f1f1;
+}
+.container {
+  width: 1166px;
+  margin: 0 auto;
+}
+.headerdiv {
+  background-color: #f1f1f1;
+  height: 50px;
+  padding-top: 11px;
+  position: fixed;
+  top: 0;
+  left: 137px;
+}
+ul {
+  display: inline-block;
+  vertical-align: middle;
+}
+div li {
+  display: inline-block;
+  color: #000;
+  font-family: Roboto, sans-serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-right: 35px;
+}
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: -6px;
+}
+h1 {
+  color: #000;
+  font-family: Roboto, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 76px;
+  margin-bottom: 27px;
+}
+.trandingsection {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 57px;
+}
+.note-1 {
+  display: inline-block;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 362px;
+  height: 357px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.beachimg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.note-1 h2 {
+  position: absolute;
+  top: 32px;
+  left: 41px;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.note-1 p {
+  display: inline-block;
+  margin-top: 254px;
+  margin-left: 37px;
+  width: 238px;
+  color: #8a8787;
+  font-family: Roboto, sans-serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  margin-bottom: 11px;
+}
+.clockimg {
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+}
+.time {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+}
+.leftsection {
+  width: 758px;
+  height: 902px;
+}
